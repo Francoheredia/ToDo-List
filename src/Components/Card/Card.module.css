@@ -1,0 +1,8 @@
+.containerCard {
+  background-color: #394049;
+  width: 60rem;
+  height: 70rem;
+  border-radius: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 2rem;
+}

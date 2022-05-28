@@ -1,0 +1,11 @@
+.container {
+  background-image: url(../assets/blob-scene-haikei.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
